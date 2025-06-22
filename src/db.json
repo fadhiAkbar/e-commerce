@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "b9a3",
+      "name": "Fadhilakbar",
+      "email": "fadhilakbar999@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "8e58",
+      "name": "FadhilAkbarDjunaedi",
+      "email": "akbarfadhil371@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "c856",
+      "name": "TomSaymon",
+      "email": "tomsaymon@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "books": [],
+  "cart": []
+}
